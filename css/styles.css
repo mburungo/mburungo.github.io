@@ -19,3 +19,19 @@ title{
   width: 450px;
   float:left;
 }
+.intro h1 {
+  color: red;
+  background-color: pink;
+}
+.intro h2{
+  color: blue;
+}
+.columns p {
+  color: brown;
+}
+.colimns ol {
+  color: purple;
+}
+li {
+  color: inherit;
+}
