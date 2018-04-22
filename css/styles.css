@@ -1,0 +1,21 @@
+h1{
+  color: #FEFEF2;
+  text-align: center;
+  background-color: #CDC8B1;
+  font-size: 100;
+
+}
+h2{
+  color: grey;
+}
+img{
+  background-color: inherit;
+  float:left;
+}
+title{
+  width: auto;
+}
+.columns{
+  width: 450px;
+  float:left;
+}
