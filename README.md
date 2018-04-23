@@ -10,7 +10,7 @@ git clone  https://github.com/mburungo/mburungo.github.io.git
 ```
 Open index.html
 ##### Link to live site on github
-You can find the link  [here](https://github.com/mburungo/mburungo.github.io)
+You can find the link  [here](https://mburungo.github.io)
 ###### License and Copyright information
 MIT License
 

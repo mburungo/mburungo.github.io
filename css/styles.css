@@ -1,6 +1,6 @@
 h1{
-  color: inherit;
-  text-align: center;
+  color: #FEFEF2;
+  text-align: left;
   background-color: #CDC8B1;
   font-size: 100;
 
@@ -11,22 +11,19 @@ h2{
 img{
   background-color: inherit;
   float:left;
-  border: 5px solid black;
 }
 title{
-  color:inherit;
+  width: auto;
 }
 .columns{
   width: 450px;
   float:left;
   border: 2px solid black;
   padding: 6px;
-  background-color: teal;
-  margin: 10px;
 }
 .intro h1 {
   color: red;
-  background-color: inherit;
+  background-color: pink;
 }
 .intro h2{
   color: blue;
@@ -39,7 +36,4 @@ title{
 }
 li {
   color: inherit;
-}
-body {
-  background-color: teal;
 }
